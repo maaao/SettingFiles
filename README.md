@@ -9,4 +9,4 @@ WSLとVSCode向けの設定ファイル群
 |Linux/.gitconfig|git用のエイリアスを設定|
 |Linux/.inputrc|ターミナル状の挙動を制御|
 |Linux/.vimrc|vimの設定|
-|VSCode|VSCodeのキーバインド|
+|VSCode|VSCodeのキーバインド<br>%AppData%\Code\Userに配置|
