@@ -1,0 +1,23 @@
+// Place your key bindings in this file to override the defaults
+[
+    {
+        "key": "ctrl+.",            "command": "workbench.action.terminal.focus",
+                                    "when": "editorTextFocus"
+    },
+    {
+        "key": "ctrl+.",            "command": "workbench.action.focusFirstEditorGroup",
+                                    "when": "terminalFocus"
+    },
+    {
+         "key": "ctrl+shift+j",    "command": "workbench.action.terminal.focusNext" 
+    },
+    {
+        "key": "ctrl+n",            "command": "workbench.action.terminal.focusNext",
+                                    "when": "terminalFocus"
+    },
+    {
+        "key": "ctrl+p",            "command": "workbench.action.terminal.focusPrevious",
+                                    "when": "terminalFocus"
+    }      
+    
+]
